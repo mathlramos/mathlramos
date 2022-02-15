@@ -8,7 +8,6 @@ Hi, I'm Matheus de Lima Ramos
 
 - 💻 Sharepoint Analyst, studying to become a Front-end Developer
 - 📚 Studying HTML, CSS and JS.
-- 
 
 <div align="center">
   <a href="https://github.com/mathlramos">
