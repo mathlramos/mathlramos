@@ -1,15 +1,14 @@
 Oi! Eu sou o Matheus de Lima Ramos
 
-- 💻 .
-- 📚 .
-- 💬 .
+- 💻 Analista Sharepoint, estudando para me tornar Desenvolvedor Front-end
+- 📚 Estudando HTML, CSS e JS.
 
 
 Hi, I'm Matheus de Lima Ramos
 
-- 💻 .
-- 📚 .
-- 💬 .
+- 💻 Sharepoint Analyst, studying to become a Front-end Developer
+- 📚 Studying HTML, CSS and JS.
+- 
 
 <div align="center">
   <a href="https://github.com/WalanHSilva">
