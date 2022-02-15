@@ -1,6 +1,7 @@
-Oi! Eu sou o Matheus de Lima Ramos
+Olá! 
+Eu sou o Matheus de Lima Ramos.
 
-- 💻 Analista Sharepoint, estudando para me tornar Desenvolvedor Front-end
+- 💻 Analista Sharepoint, estudando para me tornar Desenvolvedor Front-end.
 - 📚 Estudando HTML, CSS e JS.
 
 
